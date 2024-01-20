@@ -18,7 +18,17 @@
     <h5> Bootstrap 18px</h5>
     <h5> Bootstrap 14px</h6>
 
-> form-control: 
-* aplica um width de 100% nos componentes responsáveis
+# botões
+    Component base: .btn
+    Modificador de componente: .btn-sm / .btn-xs / .btn-lg
+    Estilo do componente: .btn-primary 
 
->
+
+
+> form-control
+* aplica um width de 100% nos componentes responsáveis
+> form-group
+* aplica um margin-bottom: 15px;
+> btn-group
+* grupo de botões
+* aplica border-left no primeiro botão e border-right no ultimo botão do grupo

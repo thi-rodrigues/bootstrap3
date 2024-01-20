@@ -27,8 +27,13 @@
 
 > form-control
 * aplica um width de 100% nos componentes responsáveis
+
 > form-group
 * aplica um margin-bottom: 15px;
+
 > btn-group
 * grupo de botões
 * aplica border-left no primeiro botão e border-right no ultimo botão do grupo
+
+> toolbar
+* dá um pequeno espáçamento em um grupo de botões

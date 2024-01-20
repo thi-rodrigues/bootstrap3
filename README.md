@@ -17,3 +17,8 @@
     <h4> Bootstrap 18px</h4>
     <h5> Bootstrap 18px</h5>
     <h5> Bootstrap 14px</h6>
+
+> form-control: 
+* aplica um width de 100% nos componentes responsáveis
+
+>

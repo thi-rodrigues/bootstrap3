@@ -4,10 +4,16 @@
 - Instalação:
     npm install bootstrap
 
->>>>>>> af3e006ce03a7ba6edfb6bb13a7faf76468c9ff5
-
 ## Grid
-    col-xs: até 480px
+    col-xs: <= 480px
     col-sm: >= 768px
     col-md: >= 998px
     col-lg: >= 1200px
+
+## Typography
+    <h1> Bootstrap 36px</h1>
+    <h2> Bootstrap 30px</h2>
+    <h3> Bootstrap 24px</h3>
+    <h4> Bootstrap 18px</h4>
+    <h5> Bootstrap 18px</h5>
+    <h5> Bootstrap 14px</h6>
